@@ -2,7 +2,7 @@
 Ein deutscher Guide für das Usenet
 
 ## WORK IN PROGRESS 
-## Zuletzt aktualisiert: 11.08.20203 18:23
+## Zuletzt aktualisiert: 11.08.20203 18:52
 
 ---
 
@@ -117,6 +117,30 @@ Wenn du es bis hier geschafft hast, dann hast du den schwierigsten Teil geschaff
 | ![Downloadvorgang](https://github.com/PCJones/usenet-guide/blob/main/img/sabnzbd5.png?raw=true) | 8. SABnzbd startet den Download automatisch. Sobald dieser abgeschlossen und entpackt ist, findet man den Inhalt im festgelegten Download-Ordner. Das wars! :) |
 
 ---
+
+### Wichtige Begriffe im Releasenamen
+
+Der Releasename (also z.B. sowas wie "Game of Thrones S01E01 German EAC3 DL 1080p BluRay x265-VECTOR") liefert euch einige wichtige Infos.
+
+Ganz am Ende hinter dem Bindestrich seht ihr immer die Releasegroup, also die Gruppe die den Film oder die Folge tatsächlich von einer BluRay gerippt oder von einem Streamingdienst heruntergeladen hat. Das kann für manche interessant sein, könnt ihr aber erstmal vernachlässigen.
+
+| Begriff            | Erklärung                                                                                                                                                                                                                                                |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| x264, h264         | Codec für Videokompression. Er erzeugt Dateien, die im Vergleich zu x265 größer sind, bietet jedoch eine bessere Kompatibilität mit älteren Geräten. Für 720p und 1080p und hohe Qualitätsansprüche empfohlen. |
+| x265, h265, HEVC   | High Efficiency Video Coding (HEVC), oft als h.265 oder x265 bezeichnet, ist ein modernerer Codec, der Videos mit etwa halber Dateigröße von h.264, aber mit gleicher Qualität komprimiert. Ideal für 4K Videos oder wenn Speicherplatz begrenzt ist.    |
+| 720p, 1080p, 2160p | Qualität des Releases. 720p = HD, 1080p = Full HD, 2160p = 4K Ultra HD.                                                                                                                                                                                 |
+| German             | Das Release verfügt über eine deutsche Tonspur.                                                                                                                                                                                                         |
+| German DL          | Dual Language - Das Release ist zweisprachig, in der Regel Deutsch und Originalsprache. Das DL kann auch später im Dateinamen auftreten, z.B. "German EAC3 DL".                                                                                         |
+| WEB-DL             | Die Quelle stammt aus dem Internet, meist von Streamingdiensten. Nicht zu verwechseln mit "German DL". Bei deutschen Releases meist nur als "WEB" oder "WebHD" bezeichnet.                                                                                            |
+| WEBRip             | Auch von einem Streamingdienst, jedoch oft (nicht immer) mit niedrigerer Bitrate als WEB-DL.                                                                                                                                                            |
+| BluRay, Blu-Ray    | BluRay-RIP. Bessere Qualität als WEB-DL
+| Remux              | Unveränderter, originaler BluRay-Rip. Es wurden nur ggf. nicht gewünschte Sprachen sowie Menüs entfernt. Bestmögliche Qualität.
+| MD, MIC DUBBED, MIC| Tonspur wurde im Kino aufgezeichnet. Oft schlechte Audioqualität mit Störgeräuschen. Meine Empfehlung: Nach einem besseren Release suchen bzw. darauf warten :-)
+| REPACK, PROPER     | Diese Releases sind Überarbeitungen oder Korrekturen eines vorherigen Releases. Ein REPACK oder PROPER sollte einem ansonsten exakt gleiche Releasen ohne diese Kennzeichnung bevorzugt werden.                                                |
+
+---
+
+Mit dieser Tabelle hast du eine klare Übersicht über wichtige Begriffe im Releasenamen und was sie bedeuten.
 
 ## Ich arbeite gerade noch an dem Guide und er wird alle paar Minuten aktualisiert.
 
