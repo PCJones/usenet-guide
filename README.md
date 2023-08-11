@@ -2,7 +2,7 @@
 Ein deutscher Guide für das Usenet
 
 ## WORK IN PROGRESS 
-## Zuletzt aktualisiert: 11.08.20203 17:45
+## Zuletzt aktualisiert: 11.08.20203 18:23
 
 ---
 
@@ -96,6 +96,23 @@ Nach der Installation kannst du SABnzbd starten, indem du beispielsweise das Sym
 | ![Zugangsdaten eintragen](https://github.com/PCJones/usenet-guide/blob/main/img/sabnzbd2.png?raw=true) | **Schritt 2:** Hier gibst du die Zugangsdaten von Ewaka oder deinem Block-Account ein. Diese Informationen solltest du direkt nach dem Kauf bekommen haben und zudem per E-Mail. Stelle sicher, dass die SSL-Option aktiviert ist, damit alle Downloads verschlüsselt sind. Dies macht einen VPN oder ähnliches überflüssig. |
 | ![Dritter Schritt](https://github.com/PCJones/usenet-guide/blob/main/img/sabnzbd3.png?raw=true) | **Schritt 3:** Der Assistent empfiehlt, das Webinterface von SABnzbd (`http://127.0.0.1:8080/sabnzbd/`) als Lesezeichen im Browser zu speichern. Dies ist nützlich, wenn SABnzbd bereits im Hintergrund läuft. Alternativ kannst du SABnzbd aber auch über das Desktop-Symbol oder die Programmsuche starten. Eventuell möchtest du die Pfade für den temporären Ordner und den Download-Ordner anpassen, was hier ebenfalls möglich ist. Am Ende musst du nur noch auf "SABnzbd anzeigen" klicken. |
 | ![SABnzbd Oberfläche](https://github.com/PCJones/usenet-guide/blob/main/img/sabnzbd4.png?raw=true) | Du siehst nun die SABnzbd Oberfläche - das war's mit der Konfiguration für den Anfang! Es empfiehlt sich, bei Gelegenheit die Einstellungen von SABnzbd zu durchstöbern und sich mit den Optionen vertraut zu machen. Aber für den Anfang bist du jetzt bereit, Downloads zu starten. |
+
+---
+
+### Downloaden
+
+Wenn du es bis hier geschafft hast, dann hast du den schwierigsten Teil geschafft. Ab jetzt wird es wirklich einfach! Alle von mir erwähnten Indexer sehen mehr oder weniger gleich aus, weshalb du keine großen Schwierigkeiten haben solltest, falls du verschiedene nutzt.
+
+| Bild | Beschreibung |
+|------|--------------|
+| ![Einloggen bei Indexer](https://github.com/PCJones/usenet-guide/blob/main/img/indexer1.png?raw=true) | 1. Einloggen bei Indexer (z.B. SceneNZBs) |
+| ![Suche](https://github.com/PCJones/usenet-guide/blob/main/img/indexer2.png?raw=true) | 2. Oben rechts in der Suche können wir nach etwas suchen, also zum Beispiel Filme oder Serien. |
+| ![Suchergebnisse](https://github.com/PCJones/usenet-guide/blob/main/img/indexer3.png?raw=true) | 3. In meinem Fall habe ich nach Tatort gesucht und finde dementsprechend alle Möglichen Tatort-Filme. Sucht ihr nach bestimmten Folgen, z.B. Staffel 2 Folge 8 so ist das Suchformat immer "Serienname S02E08". Ihr findet hier auch wichtige Informationen wie die Dateigröße. das Upload-Datum und im Titel auch noch vieles weiteres, wie z.B. die Ursprungsquelle (Blu-Ray, WEB, DVD, etc) oder die Qualität (720p, 1080p, 4k, etc). Worauf genau ihr da achten könnt & solltet erkläre ich später noch genauer. |
+| ![View Series](https://github.com/PCJones/usenet-guide/blob/main/img/indexer4.png?raw=true) | 4. Tipp: Bei Filmreihen und insbesondere Serien gibt es bei den meisten Indexern einen Button wie View Series, mit der man eine geordnete Übersicht über alle verfügbaren Staffeln, Folgen & verfügbare Releases hat. |
+| ![Download oder Warenkorb](https://github.com/PCJones/usenet-guide/blob/main/img/indexer5.png?raw=true) | 5. Haben wir uns für ein Release entschieden, so haben wir bei den meisten Indexern zwei Möglichkeiten - Entweder downloaden wir die NZB-Datei direkt, oder wir fügen sie in unseren "Warenkorb" hinzu. Das ist nützlich, falls wir viele Dateien downloaden möchten. Falls ihr die Releases in den Warenkorb packt, so findet ihr unter Profile->My Cart (oder in der Nähe, je nach Indexer) alle hinzugefügten Downloads. Die könnt ihr dann mit einem Klick allesamt markieren um sie als .zip Datei gebündelt herunterzuladen - so erspart ihr euch dutzende einzelne .nzb Dateien. Ihr müsst die .zip Datei auch nicht entpacken, das macht SABnzbd automatisch für euch. |
+| ![Heruntergeladene Datei](https://github.com/PCJones/usenet-guide/blob/main/img/downloadfolder1.png?raw=true) | 6. Ich habe jetzt eine .nzb Datei gedownloaded, es können aber auch mehrere sein (und wie erwähnt auch .zip Dateien die mehrere .nzbs beinhalten)
+| ![SABnzbd Import](https://github.com/PCJones/usenet-guide/blob/main/img/sabnzbd4.png?raw=true) | 7. Nun gehen wir zu SABnzbd und ziehen die Dateien entweder per Drag&Drop herein oder klicken auf den großen "NZB hinzufügen" Button. |
+| ![Downloadvorgang](https://github.com/PCJones/usenet-guide/blob/main/img/sabnzbd5.png?raw=true) | 8. SABnzbd startet den Download automatisch. Sobald dieser abgeschlossen und entpackt ist, findet man den Inhalt im festgelegten Download-Ordner. Das wars! :) |
 
 ---
 
