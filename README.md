@@ -22,7 +22,7 @@ Filesharing im Usenet funktioniert durch das Hochladen von Dateien in "Newsgroup
 
 - **Usenet-Indexer**: Sie sind Suchmaschinen für das Usenet. Da heutzutage fast alle Uploads verschlüsselt sind sind Indexer unerlässlich, da man ohne sie keine Dateien mehr finden kann.
 
-- **NZB-Dateien**: Ein "Rezept" oder eine "Schatzakrte" für deinen Downloader. Sie informieren den Downloader, wie er die verschlüsselten, in tausende kleine Teile ("Postings") aufgesplittete Datei aus dem Usenet herunterladen und rekonstruieren kann.
+- **NZB-Dateien**: Ein "Rezept" oder eine "Schatzkarte" für deinen Downloader. Sie informieren den Downloader, wie er die verschlüsselten, in tausende kleine Teile ("Postings") aufgesplittete Datei aus dem Usenet herunterladen und rekonstruieren kann.
 
 ---
 
