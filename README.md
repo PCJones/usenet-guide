@@ -2,7 +2,7 @@
 Ein deutscher Guide für das Usenet
 
 ## WORK IN PROGRESS 
-## Zuletzt aktualisiert: 11.08.20203 16:45
+## Zuletzt aktualisiert: 11.08.20203 17:36
 
 ---
 
@@ -40,15 +40,15 @@ Diese Tools sind optional und werden in einem späteren Teil ausführlicher besp
 
 ### Vorbereitung
 
-1. **Usenet-Provider**:
+#### 1. **Usenet-Provider**:
 
    - **Für regelmäßige Nutzer**: **Ewaka** bietet Zugriff auf Uploads, die bis zu 15+ Jahre alt sind.  
 Mit diesem [Aktionslink](https://www.eweka.nl/en/landing/special-deal) kostet es nur 4€/Monat. Wenn du erst einmal nur für einen Monat testen möchtest, besuche die [Ewaka-Startseite](https://www.eweka.nl/en).
 Tipp: Am Black Friday und Koningsdag gibt es oft Angebote für nur 3€/Monat. Falls du bis dahin warten möchtest, könnte ein Block-Account (siehe unten) eine gute vorübergehende Lösung sein.
 
-   - **Für gelegentliche Nutzer**: Ein Block-Account ermöglicht es dir, eine Datenmenge zu kaufen und diese ohne Zeitdruck zu verbrauchen. Bei **newsgroupdirect.com** bekommst du 2 TB für 16$ oder 4 TB für 25$. Siehe hier ganz unten: [Usenet-Angebote](https://newsgroupdirect.com/usenet-deals). Beachte, dass die Aufbewahrungszeit hier maximal 12 Jahre beträgt, aber Block-Accounts mit einer 15+-jährigen Vorhaltezeit kosten oft 5-10x mehr. Es sollte keinen großen Unterschied machen, aber es ist erwähnenswert.
+   - **Für gelegentliche Nutzer**: Ein Block-Account ermöglicht es dir, eine Datenmenge zu kaufen und diese ohne Zeitdruck zu verbrauchen. Bei **newsgroupdirect.com** bekommst du 2 TB für 16$ oder 4 TB für 25$. Siehe hier ganz unten: [Usenet-Angebote](https://newsgroupdirect.com/usenet-deals). Beachte, dass die Aufbewahrungszeit hier maximal 12 Jahre beträgt, aber Block-Accounts mit einer 15+-jährigen Vorhaltezeit kosten oft 5-10x mehr. Es sollte keinen großen Unterschied machen, aber es ist erwähnenswert. **Achtung**: Direkt nach dem Kauf werden euch eure Zugangsdaten angezeigt, an diese kommt ihr danach nicht mehr ran - also am besten direkt sichern!
 
-2. **Usenet-Indexer**:
+#### 2. **Usenet-Indexer**:
 
 Für deutsche Produktionen, deutsche Vertonung sowie sogenannte "German DL" Releases (DL = Dual Language, also deutsche + originale Tonspur) gibt es eigentlich nur einen Usenet-Indexer: **sceneNZBs.com**.
 
@@ -63,6 +63,45 @@ Hier meine Indexer-Empfehlung mit Ranking nach eigener Erfahrung. Zu Beginn reic
 | 3.   | NzbGeek       | Einmalig 15 zum testen   | 12$                    | Dauerhaft              | -                                                 | Sehr gute Ergänzung zu SceneNZBs, da günstig, offene Registrierung und einiges an älterem deutschem Content vorhanden                          |
 | 4.   | DrunkenSlug   | 5                        | 15-25€                 | Alle paar Monate (**11.08.2023: gerade offen!**)  | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch einiges an deutschem Content hat, allerdings im Vergleich zu NzbGeek recht teuer                    |
 | 5.   | AnimeTosho    | ∞                        | 0€                     | Nicht nötig            | -                                                 | Kostenloser Indexer für Anime                    
+
+**Kostenlose Alternative:**
+Wer - bis auf den Usenet Provider - wirklich komplett kostenlos fahren möchte kann Alternativ auch auf so genannte Boards(Foren) zurückgreifen. Hier kann man nichts automatisieren und es sind ggf. ein paar mehr Klicks nötig, aber dafür sind die Boards komplett kostenlos. Es gibt im deutschen Raum ein öffentliches Usenet-Board: house-of-usenet.com
+
+#### 3. Downloader:
+
+Es gibt zahlreiche Download-Clients für das Usenet, doch der unangefochtene Spitzenreiter ist **SABnzbd**. Dies hat mehrere Gründe:
+
+- **Open Source**: Die Software ist transparent und kann von der Community weiterentwickelt und überprüft werden.
+  
+- **Kostenlos**: SABnzbd ist völlig kostenfrei nutzbar.
+  
+- **Vielseitigkeit**: Es funktioniert einwandfrei und ist verfügbar für Windows, MacOS und Linux.
+  
+- **(Für Profis)**: Da es eine Webanwendung ist lässt sich SABnzbd hervorragend als Docker-Container ausführen.
+
+**Download**: [SABnzbd Download](https://sabnzbd.org/downloads)
+
+**Installation**: Führe das Installationsprogramm aus und folge den Anweisungen.
+
+---
+
+**Erste Schritte mit SABnzbd**
+
+Nach der Installation kannst du SABnzbd starten, indem du beispielsweise das Symbol auf deinem Desktop doppelklickst oder in der Suche danach suchst. Beim Starten öffnet sich dein Standardbrowser mit der Webanwendung von SABnzbd.
+
+**Ersteinrichtung**:
+
+1. ![Assistent](https://github.com/PCJones/usenet-guide/blob/main/img/sabnzbd1.png?raw=true) Wähle als Sprache "Deutsch" und klicke dann auf "Assistenten starten".
+
+2. ![Zugangsdaten eintragen](https://github.com/PCJones/usenet-guide/blob/main/img/sabnzbd2.png?raw=true) Hier gibst du die Zugangsdaten von Ewaka oder deinem Block-Account ein. Diese Informationen solltest du direkt nach dem Kauf bekommen haben und zudem per E-Mail. Stelle sicher, dass die SSL-Option aktiviert ist, damit alle Downloads verschlüsselt sind. Dies macht einen VPN oder ähnliches überflüssig.
+
+3. ![Dritter Schritt](https://github.com/PCJones/usenet-guide/blob/main/img/sabnzbd3.png?raw=true) Der Assistent empfiehlt, das Webinterface von SABnzbd (`http://127.0.0.1:8080/sabnzbd/`) als Lesezeichen im Browser zu speichern. Dies ist besonders nützlich, wenn SABnzbd im Hintergrund läuft. Alternativ kannst du SABnzbd aber auch über das Desktop-Symbol oder die Programmsuche starten. Eventuell möchtest du die Pfade für den temporären Ordner und den Download-Ordner anpassen, was hier ebenfalls möglich ist.
+
+Nach Abschluss des Einrichtungsassistenten klicke auf "SABnzbd anzeigen":
+![SABnzbd Oberfläche](https://github.com/PCJones/usenet-guide/blob/main/img/sabnzbd4.png?raw=true)
+
+Du siehst nun die SABnzbd Oberfläche - das war's mit der Konfiguration für den Anfang! Es empfiehlt sich, bei Gelegenheit die Einstellungen von SABnzbd zu durchstöbern und sich mit den Optionen vertraut zu machen. Aber für den Anfang bist du jetzt bereit, Downloads zu starten
+
 ---
 
 ## Ich arbeite gerade noch an dem Guide und er wird alle paar Minuten aktualisiert.
