@@ -2,7 +2,7 @@
 Ein deutscher Guide für das Usenet
 
 ## WORK IN PROGRESS 
-## Zuletzt aktualisiert: 11.08.20203 19:14
+## Zuletzt aktualisiert: 11.08.20203 19:18
 
 ---
 
@@ -144,7 +144,8 @@ Ganz am Ende hinter dem Bindestrich seht ihr immer die Releasegroup, also die Gr
 
 - Mein SABnzbd erreicht nicht die volle Downloadgeschwindigkeit.
 
-  - **Ursachen überprüfen:** Mache einen Geschwindigkeitstest auf einer Seite wie [Speedtest](https://speedtest.net). In der Regel solltest du in SABnzbd mindestens 90% der Geschwindigkeit erreichen, die du im Speedtest siehst. Falls du eine sehr alte oder langsame Festplatte verwendest, könnte dies ebenfalls der Flaschenhals sein.
+  - **Ursachen überprüfen:** Mache einen Geschwindigkeitstest auf einer Seite wie [Speedtest](https://speedtest.net). In der Regel solltest du in SABnzbd mindestens 80-90% der Geschwindigkeit erreichen, die du im Speedtest siehst. Achtung: speedtest.net zeigt die Geschwindigkeit in Megabit, SABnzbd in Megabyte. Hier kannst du umrechnen: https://www.gbmb.org/mbit-to-mb
+Falls du eine sehr alte oder langsame Festplatte verwendest, könnte dies ebenfalls der Flaschenhals sein.
 
   - **Download testen:** Du kannst die Geschwindigkeit entweder mit herkömmlichen NZBs testen oder spezielle Testdownloads in SABnzbd verwenden. Klicke dazu oben rechts auf den Schraubenschlüssel und starte einen Testdownload (100 MB, 1 GB oder 10 GB). Beachte bei Block-Accounts dass die Testdownloads zum verbrauchten Datenvolumen zählen.
 
