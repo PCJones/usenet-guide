@@ -1,7 +1,7 @@
 # Usenet Einsteiger Guide
 Ein deutscher Guide für das Usenet
 
-## WORK IN PROGRESS
+## WORK IN PROGRESS 
 ## Zuletzt aktualisiert: 11.08.20203 16:10
 
 ---
@@ -50,4 +50,4 @@ Diese Tools sind optional und werden in einem späteren Teil ausführlicher besp
 
 ---
 
-Ich arbeite gerade noch an dem Guide und er wird alle paar Minuten aktualisiert.
+## Ich arbeite gerade noch an dem Guide und er wird alle paar Minuten aktualisiert.
