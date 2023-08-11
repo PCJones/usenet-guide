@@ -8,9 +8,9 @@ Ein deutscher Guide für das Usenet
 
 ### Das Usenet verstehen
 
-Das Usenet, ursprünglich in den 1980er Jahren als globales Diskussionsforum für Textnachrichten entwickelt, dient heute vorwiegend dem Filesharing.
+Das Usenet wurde ursprünglich in den 1980er Jahren als ein globales, verteiltes Diskussionsforum für Textnachrichten entwickelt. Heute wird es jedoch hauptsächlich zum Teilen von Dateien genutzt.
 
-- **Filesharing**: Dateien werden in "Newsgroups" hochgeladen. Einmal hochgeladen, werden sie weltweit auf Usenet-Servern repliziert.
+Filesharing im Usenet funktioniert durch das Hochladen von Dateien in "Newsgroups". Sobald eine Datei hochgeladen ist, wird sie auf Usenet-Servern weltweit repliziert und kann von jedem, der Zugang zu diesen Servern hat, heruntergeladen werden.
 
 ---
 
