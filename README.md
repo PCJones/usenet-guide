@@ -56,6 +56,8 @@ Für Gelegenheitsnutzer lassen sich Indexer oftmals sogar komplett kostenlos nut
 
 Hier meine Indexer-Empfehlung mit Ranking nach eigener Erfahrung. Zu Beginn reicht sceneNZBs.com völlig aus. Die anderen Indexer haben deutlich weniger deutschen Content, aber es gibt manchmal ältere Releases, die es (noch) nicht auf sceneNZBs.com gibt. Außerdem haben sie englischen Content oftmals früher und in mehr Varianten.
 
+**11.08.2023 18:00: Natürlich ist SceneNZBs ausgerechnet jetzt wo ich den Guide veröffentliche down, handelt sich hoffentlich nur um eine kurze Störung :-)**
+
 | Rank | Indexer       | Kostenlose Downloads/Tag | Premium pro Jahr       | Registrierung geöffnet | Löschung von kostenlosen Accounts bei Inaktivität | Weitere Info                                                                           |
 |------|---------------|--------------------------|------------------------|------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------|
 | 1.   | SceneNZBs.com | 10                       | 15-20€                 | Dauerhaft              | 1 Jahr                                            | Unverzichtbar für deutschen Content                                                  |
