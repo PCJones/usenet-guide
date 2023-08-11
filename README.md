@@ -10,7 +10,7 @@ Ein deutscher Guide für das Usenet
 
 Das Usenet wurde ursprünglich in den 1980er Jahren als ein globales, verteiltes Diskussionsforum für Textnachrichten entwickelt. Heute wird es jedoch hauptsächlich zum Teilen von Dateien genutzt.
 
-Filesharing im Usenet funktioniert durch das Hochladen von Dateien in "Newsgroups". Sobald eine Datei hochgeladen ist, wird sie auf Usenet-Servern weltweit repliziert und kann von jedem, der Zugang zu diesen Servern hat, heruntergeladen werden.
+Filesharing im Usenet funktioniert durch das Hochladen von Dateien in "Newsgroups". Dabei wird die Datei in tausende kleine Dateien aufgesplittet, die dann als "Text" im Usenet gepostet werden. Sobald eine Datei hochgeladen ist, wird sie auf Usenet-Servern weltweit repliziert und kann von jedem, der Zugang zu diesen Servern hat, heruntergeladen werden.
 
 ---
 
