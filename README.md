@@ -50,7 +50,7 @@ Tipp: Am Black Friday und Koningsdag gibt es oft Angebote für nur 3€/Monat. F
 
 2. **Usenet-Indexer**:
 
-Für deutsche Produktionen, deutsche Vertonung sowie sogenannte "German DL" (Dual Language, also deutsche + originale Tonspur) gibt es eigentlich nur einen Usenet-Indexer: **sceneNZBs.com**.
+Für deutsche Produktionen, deutsche Vertonung sowie sogenannte "German DL" Releases (DL = Dual Language, also deutsche + originale Tonspur) gibt es eigentlich nur einen Usenet-Indexer: **sceneNZBs.com**.
 
 Für Gelegenheitsnutzer lassen sich Indexer oftmals sogar komplett kostenlos nutzen. Wer jedoch viel oder sogar automatisiert downloaden möchte, kommt um eine monatliche Zahlung von 15-25€ nicht herum.
 
