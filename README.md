@@ -20,7 +20,7 @@ Das Usenet, ursprünglich in den 1980er Jahren als globales Diskussionsforum fü
 
 - **Usenet-Indexer**: Sie sind Suchmaschinen für das Usenet. Da heutzutage fast alle Uploads verschlüsselt sind sind Indexer unerlässlich, da man ohne sie keine Dateien mehr finden kann.
 
-- **NZB-Dateien**: Ein "Rezept" oder eine "Schatzakrte" für deinen Downloader. Sie informieren den Downloader, wie er die in tausende verschlüsselte kleine Teile ("Postings") aufgesplittete Datei aus dem Usenet herunterladen und rekonstruieren kann.
+- **NZB-Dateien**: Ein "Rezept" oder eine "Schatzakrte" für deinen Downloader. Sie informieren den Downloader, wie er die verschlüsselten, in tausende kleine Teile ("Postings") aufgesplittete Datei aus dem Usenet herunterladen und rekonstruieren kann.
 
 ---
 
