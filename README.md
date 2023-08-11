@@ -50,18 +50,20 @@ Tipp: Am Black Friday und Koningsdag gibt es oft Angebote für nur 3€/Monat. F
 
 #### 2. **Usenet-Indexer**:
 
-Für deutsche Produktionen, deutsche Vertonung sowie sogenannte "German DL" Releases (DL = Dual Language, also deutsche + originale Tonspur) gibt es eigentlich nur einen Usenet-Indexer: **sceneNZBs.com**.
+Hinweis: Ich verlinke hier keinen Indexer, wenn ihr danach sucht sollten sie aber alle der erste Google-Treffer sein ;)
+
+Für deutsche Produktionen, deutsche Vertonung sowie sogenannte "German DL" Releases (DL = Dual Language, also deutsche + originale Tonspur) gibt es eigentlich nur einen Usenet-Indexer: **SceneNZBs**.
 
 Für Gelegenheitsnutzer lassen sich Indexer oftmals sogar komplett kostenlos nutzen. Wer jedoch viel oder sogar automatisiert downloaden möchte, kommt um eine monatliche Zahlung von 15-25€ nicht herum.
 
-Hier meine Indexer-Empfehlung mit Ranking nach eigener Erfahrung. Zu Beginn reicht sceneNZBs.com völlig aus. Die anderen Indexer haben deutlich weniger deutschen Content, aber es gibt manchmal ältere Releases, die es (noch) nicht auf sceneNZBs.com gibt. Außerdem haben sie englischen Content oftmals früher und in mehr Varianten.
+Hier meine Indexer-Empfehlung mit Ranking nach eigener Erfahrung. Zu Beginn reicht sceneNZBs.com völlig aus. Die anderen Indexer haben deutlich weniger deutschen Content, aber es gibt manchmal ältere Releases, die es (noch) nicht auf SceneNZBs gibt. Außerdem haben sie englischen Content oftmals früher und in mehr Varianten.
 
 **11.08.2023 18:00: Natürlich ist SceneNZBs ausgerechnet jetzt wo ich den Guide veröffentliche down, handelt sich hoffentlich nur um eine kurze Störung :-)**
 
 | Rank | Indexer       | Kostenlose Downloads/Tag | Premium pro Jahr       | Registrierung geöffnet | Löschung von kostenlosen Accounts bei Inaktivität | Weitere Info                                                                           |
 |------|---------------|--------------------------|------------------------|------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------|
-| 1.   | SceneNZBs.com | 10                       | 15-20€                 | Dauerhaft              | 1 Jahr                                            | Unverzichtbar für deutschen Content                                                  |
-| 2.   | Ninja Central | 5                        | 12€                    | Alle paar Monate       | 7 Tage                                            | Kostenlose Accounts werden schnell gesperrt, aber Premium ist es auf jeden Fall Wert - dieser Indexer hat oft Sachen, die es kaum woanders gibt  |
+| 1.   | SceneNZBs | 10                       | 15-20€                 | Dauerhaft              | 1 Jahr                                            | Unverzichtbar für deutschen Content                                                  |
+| 2.   | NinjaCentral | 5                        | 12€                    | Alle paar Monate       | 7 Tage                                            | Kostenlose Accounts werden schnell gesperrt, aber Premium ist es auf jeden Fall Wert - dieser Indexer hat oft Sachen, die es kaum woanders gibt  |
 | 3.   | NzbGeek       | Einmalig 15 zum testen   | 12$                    | Dauerhaft              | -                                                 | Sehr gute Ergänzung zu SceneNZBs, da günstig, offene Registrierung und einiges an älterem deutschem Content vorhanden                          |
 | 4.   | DrunkenSlug   | 5                        | 15-25€                 | Alle paar Monate (**11.08.2023: gerade offen!**)  | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch einiges an deutschem Content hat, allerdings im Vergleich zu NzbGeek recht teuer                    |
 | 5.   | AnimeTosho    | ∞                        | 0€                     | Nicht nötig            | -                                                 | Kostenloser Indexer für Anime                    
