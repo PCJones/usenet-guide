@@ -2,7 +2,7 @@
 Ein deutscher Guide für das Usenet
 
 ## WORK IN PROGRESS 
-## Zuletzt aktualisiert: 11.08.20203 18:52
+## Zuletzt aktualisiert: 11.08.20203 19:14
 
 ---
 
@@ -138,9 +138,18 @@ Ganz am Ende hinter dem Bindestrich seht ihr immer die Releasegroup, also die Gr
 | MD, MIC DUBBED, MIC| Tonspur wurde im Kino aufgezeichnet. Oft schlechte Audioqualität mit Störgeräuschen. Meine Empfehlung: Nach einem besseren Release suchen bzw. darauf warten :-)
 | REPACK, PROPER     | Diese Releases sind Überarbeitungen oder Korrekturen eines vorherigen Releases. Ein REPACK oder PROPER sollte einem ansonsten exakt gleiche Releasen ohne diese Kennzeichnung bevorzugt werden.                                                |
 
+### Probleme und Fragen
+
 ---
 
-Mit dieser Tabelle hast du eine klare Übersicht über wichtige Begriffe im Releasenamen und was sie bedeuten.
+- Mein SABnzbd erreicht nicht die volle Downloadgeschwindigkeit.
+
+  - **Ursachen überprüfen:** Mache einen Geschwindigkeitstest auf einer Seite wie [Speedtest](https://speedtest.net). In der Regel solltest du in SABnzbd mindestens 90% der Geschwindigkeit erreichen, die du im Speedtest siehst. Falls du eine sehr alte oder langsame Festplatte verwendest, könnte dies ebenfalls der Flaschenhals sein.
+
+  - **Download testen:** Du kannst die Geschwindigkeit entweder mit herkömmlichen NZBs testen oder spezielle Testdownloads in SABnzbd verwenden. Klicke dazu oben rechts auf den Schraubenschlüssel und starte einen Testdownload (100 MB, 1 GB oder 10 GB). Beachte bei Block-Accounts dass die Testdownloads zum verbrauchten Datenvolumen zählen.
+
+  - **Verbindungen anpassen:** Wenn die Geschwindigkeit nicht optimal ist, gehe zu den Servereinstellungen in SABnzbd. Klicke dazu oben rechts auf das Zahnrad, dann auf "Server" und dort bei deinem Server auf "Details anzeigen". Unter "Verbindungen" siehst du eine Zahl, wahrscheinlich "8". Es ist eine Frage des Ausprobierens, um die optimale Anzahl von Verbindungen herauszufinden. Ewaka erlaubt bis zu 50 Verbindungen, mehr als 40 sollte man aber nie verwenden. Ein guter Startwert könnte 20 sein. Dann kannst du die Anzahl der Verbindungen schrittweise erhöhen oder verringern und jeweils die Geschwindigkeit testen - wichtig: auch zu viele Verbindungen können ein Problem sein!
+
 
 ## Ich arbeite gerade noch an dem Guide und er wird alle paar Minuten aktualisiert.
 
