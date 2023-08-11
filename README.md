@@ -2,7 +2,7 @@
 Ein deutscher Guide für das Usenet
 
 ## WORK IN PROGRESS 
-## Zuletzt aktualisiert: 11.08.20203 17:36
+## Zuletzt aktualisiert: 11.08.20203 17:45
 
 ---
 
@@ -90,17 +90,12 @@ Es gibt zahlreiche Download-Clients für das Usenet, doch der unangefochtene Spi
 Nach der Installation kannst du SABnzbd starten, indem du beispielsweise das Symbol auf deinem Desktop doppelklickst oder in der Suche danach suchst. Beim Starten öffnet sich dein Standardbrowser mit der Webanwendung von SABnzbd.
 
 **Ersteinrichtung**:
-
-1. ![Assistent](https://github.com/PCJones/usenet-guide/blob/main/img/sabnzbd1.png?raw=true) Wähle als Sprache "Deutsch" und klicke dann auf "Assistenten starten".
-
-2. ![Zugangsdaten eintragen](https://github.com/PCJones/usenet-guide/blob/main/img/sabnzbd2.png?raw=true) Hier gibst du die Zugangsdaten von Ewaka oder deinem Block-Account ein. Diese Informationen solltest du direkt nach dem Kauf bekommen haben und zudem per E-Mail. Stelle sicher, dass die SSL-Option aktiviert ist, damit alle Downloads verschlüsselt sind. Dies macht einen VPN oder ähnliches überflüssig.
-
-3. ![Dritter Schritt](https://github.com/PCJones/usenet-guide/blob/main/img/sabnzbd3.png?raw=true) Der Assistent empfiehlt, das Webinterface von SABnzbd (`http://127.0.0.1:8080/sabnzbd/`) als Lesezeichen im Browser zu speichern. Dies ist besonders nützlich, wenn SABnzbd im Hintergrund läuft. Alternativ kannst du SABnzbd aber auch über das Desktop-Symbol oder die Programmsuche starten. Eventuell möchtest du die Pfade für den temporären Ordner und den Download-Ordner anpassen, was hier ebenfalls möglich ist.
-
-Nach Abschluss des Einrichtungsassistenten klicke auf "SABnzbd anzeigen":
-![SABnzbd Oberfläche](https://github.com/PCJones/usenet-guide/blob/main/img/sabnzbd4.png?raw=true)
-
-Du siehst nun die SABnzbd Oberfläche - das war's mit der Konfiguration für den Anfang! Es empfiehlt sich, bei Gelegenheit die Einstellungen von SABnzbd zu durchstöbern und sich mit den Optionen vertraut zu machen. Aber für den Anfang bist du jetzt bereit, Downloads zu starten
+| Bild | Anleitung |
+|:----:|-----------|
+| ![Assistent](https://github.com/PCJones/usenet-guide/blob/main/img/sabnzbd1.png?raw=true) | **Schritt 1:** Wähle als Sprache "Deutsch" und klicke dann auf "Assistenten starten". |
+| ![Zugangsdaten eintragen](https://github.com/PCJones/usenet-guide/blob/main/img/sabnzbd2.png?raw=true) | **Schritt 2:** Hier gibst du die Zugangsdaten von Ewaka oder deinem Block-Account ein. Diese Informationen solltest du direkt nach dem Kauf bekommen haben und zudem per E-Mail. Stelle sicher, dass die SSL-Option aktiviert ist, damit alle Downloads verschlüsselt sind. Dies macht einen VPN oder ähnliches überflüssig. |
+| ![Dritter Schritt](https://github.com/PCJones/usenet-guide/blob/main/img/sabnzbd3.png?raw=true) | **Schritt 3:** Der Assistent empfiehlt, das Webinterface von SABnzbd (`http://127.0.0.1:8080/sabnzbd/`) als Lesezeichen im Browser zu speichern. Dies ist nützlich, wenn SABnzbd bereits im Hintergrund läuft. Alternativ kannst du SABnzbd aber auch über das Desktop-Symbol oder die Programmsuche starten. Eventuell möchtest du die Pfade für den temporären Ordner und den Download-Ordner anpassen, was hier ebenfalls möglich ist. Am Ende musst du nur noch auf "SABnzbd anzeigen" klicken. |
+| ![SABnzbd Oberfläche](https://github.com/PCJones/usenet-guide/blob/main/img/sabnzbd4.png?raw=true) | Du siehst nun die SABnzbd Oberfläche - das war's mit der Konfiguration für den Anfang! Es empfiehlt sich, bei Gelegenheit die Einstellungen von SABnzbd zu durchstöbern und sich mit den Optionen vertraut zu machen. Aber für den Anfang bist du jetzt bereit, Downloads zu starten. |
 
 ---
 
