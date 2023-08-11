@@ -1,8 +1,10 @@
 # Usenet Einsteiger Guide
-Ein deutscher Guide für das Usenet
+Ein deutscher Guide für das Usenet. Wenn du Fragen, Probleme oder Verbesserungsvorschläge hast, erstelle gerne ein Issue oder einen Pull Request!
 
-## WORK IN PROGRESS 
-## Zuletzt aktualisiert: 11.08.20203 19:18
+## Status des Guides
+Der erste Teil des Guides ist fertig, was noch fehlt ist die Automatisierung mit Radarr & Sonarr - das wird in den nächsten Tagen folgen.
+
+## Zuletzt aktualisiert: 11.08.20203 19:27
 
 ---
 
@@ -151,9 +153,17 @@ Falls du eine sehr alte oder langsame Festplatte verwendest, könnte dies ebenfa
 
   - **Verbindungen anpassen:** Wenn die Geschwindigkeit nicht optimal ist, gehe zu den Servereinstellungen in SABnzbd. Klicke dazu oben rechts auf das Zahnrad, dann auf "Server" und dort bei deinem Server auf "Details anzeigen". Unter "Verbindungen" siehst du eine Zahl, wahrscheinlich "8". Es ist eine Frage des Ausprobierens, um die optimale Anzahl von Verbindungen herauszufinden. Ewaka erlaubt bis zu 50 Verbindungen, mehr als 40 sollte man aber nie verwenden. Ein guter Startwert könnte 20 sein. Dann kannst du die Anzahl der Verbindungen schrittweise erhöhen oder verringern und jeweils die Geschwindigkeit testen - wichtig: auch zu viele Verbindungen können ein Problem sein!
 
+### Automatisierung mit Radarr, Sonarr & Prowlarr
 
-## Ich arbeite gerade noch an dem Guide und er wird alle paar Minuten aktualisiert.
+---
 
+Wie genau man Radarr, Sonarr & co einrichtet werde ich in den nächsten Tagen hinzufügen.
+Wer sich jetzt schon ranwagen möchte, hier ein paar Links & Infos:
+1. Ganz wichtig: Sonarr v4 Beta nutzen, nicht die Version 3. Version 3 wird bald eingestellt und es ändert sich einiges, es wäre ärgerlich wenn ihr dann alles neu konfigurieren müsst. Die Beta läuft auch sehr stabil und löst bald v3 endgültig ab.
+2. Hier scheint es ein ganz vernünftiges Englisches Tutorial zu geben: https://www.rapidseedbox.com/blog/ultimate-guide-to-sonarr
+Statt Schritt 5. (Torrent-Client) fügt ihr einen Newznab Usenet-Downloader hinzu, die API Keys findet ihr beim Indexer in eurem Profil - dafür braucht ihr aber wie erwähnt dann Premium.
+3. Zur weiteren Optimierung empfehlen sich die TraSH-Guides für Radarr & Sonarr: https://trash-guides.info/ **Achtung**: Bei Sonarr nur den v4 Beta Reiter beachteten
+4. Falls German DL (Deutsch+Original) Releases bevorzugt werden sollen habe ich dafür einen Guide geschrieben: https://github.com/PCJones/radarr-sonarr-german-dual-language
 
 ## Kontakt & Support
 - Öffne gerne ein Issue auf GitHub falls du Unterstützung benötigst.
