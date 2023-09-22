@@ -56,7 +56,7 @@ Hinweis: Ich verlinke hier keinen Indexer, wenn ihr danach sucht sollten sie abe
 
 Für deutsche Produktionen, deutsche Vertonung sowie sogenannte "German DL" Releases (DL = Dual Language, also deutsche + originale Tonspur) gibt es eigentlich nur einen Usenet-Indexer: **SceneNZBs**.
 
-Für Gelegenheitsnutzer lassen sich Indexer oftmals sogar komplett kostenlos nutzen. Wer jedoch viel oder sogar automatisiert downloaden möchte, kommt um eine jährliche Zahlung von 15-25€ nicht herum.
+Für Gelegenheitsnutzer lassen sich Indexer oftmals sogar komplett kostenlos nutzen. Wer jedoch viel oder sogar automatisiert downloaden möchte, kommt um eine jährliche Zahlung von 10-20€ nicht herum.
 
 Hier meine Indexer-Empfehlung mit Ranking nach eigener Erfahrung. Zu Beginn reicht sceneNZBs völlig aus. Die anderen Indexer haben deutlich weniger deutschen Content, aber es gibt manchmal ältere Releases, die es (noch) nicht auf SceneNZBs gibt. Außerdem haben sie englischen Content oftmals früher und in mehr Varianten.
 
