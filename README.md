@@ -4,7 +4,7 @@ Ein deutscher Guide für das Usenet. Wenn du Fragen, Probleme oder Verbesserungs
 ## Status des Guides
 Der erste Teil des Guides ist fertig, was noch fehlt ist die Automatisierung mit Radarr & Sonarr - das wird in den nächsten Tagen folgen.
 
-## Zuletzt aktualisiert: 12.08.20203 01:38
+## Zuletzt aktualisiert: 03.11.20203 19:13
 
 ---
 
@@ -65,8 +65,11 @@ Hier meine Indexer-Empfehlung mit Ranking nach eigener Erfahrung. Zu Beginn reic
 | 1.   | SceneNZBs | 10                       | 15-20€                 | Dauerhaft              | 1 Jahr                                            | Unverzichtbar für deutschen Content                                                  |
 | 2.   | NinjaCentral | 5                        | 12€                    | Alle paar Monate       | 7 Tage                                            | Kostenlose Accounts werden schnell gesperrt, aber Premium ist es auf jeden Fall Wert - dieser Indexer hat oft Sachen, die es kaum woanders gibt  |
 | 3.   | NzbGeek       | Einmalig 15 zum testen   | 12$                    | Dauerhaft              | -                                                 | Sehr gute Ergänzung zu SceneNZBs, da günstig, offene Registrierung und einiges an älterem deutschem Content vorhanden                          |
-| 4.   | DrunkenSlug   | 5                        | 15-25€                 | Alle paar Monate (**11.08.2023: gerade offen!**)  | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch einiges an deutschem Content hat, allerdings im Vergleich zu NzbGeek recht teuer                    |
-| 5.   | AnimeTosho    | ∞                        | 0€                     | Nicht nötig            | -                                                 | Kostenloser Indexer für Anime                    
+| 4.   | DrunkenSlug   | 5                        | 15-25€                 | Alle paar Monate | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch einiges an deutschem Content hat, allerdings im Vergleich zu NzbGeek recht teuer                    |
+| 5.   | NZB.su   | ?                        | 15$                 | Dauerhaft | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch einiges an deutschem Content hat.                   |
+| 6.   | AnimeTosho    | ∞                        | 0€                     | Nicht nötig            | -                                                 | Kostenloser Indexer für Anime (allerdings wenig deutsches)                    
+
+NzbGeek, DrunkenSlug und NZB.su haben eine wirklich sehr große Überschneidung, weshalb ihr davon eigentlich maximal 2 braucht - außer ihr seid absoluter Poweruser und ladet sehr viel herunter.
 
 **Kostenlose Alternative:**
 Wer - bis auf den Usenet Provider - wirklich komplett kostenlos fahren möchte kann Alternativ auch auf so genannte Boards(Foren) zurückgreifen. Hier kann man nichts automatisieren und es sind ggf. ein paar mehr Klicks nötig, aber dafür sind die Boards komplett kostenlos. Es gibt im deutschen Raum ein bekanntes öffentliches Usenet-Board: house-of-usenet.com
