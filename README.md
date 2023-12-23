@@ -4,7 +4,7 @@ Ein deutscher Guide für das Usenet. Wenn du Fragen, Probleme oder Verbesserungs
 ## Status des Guides
 Der erste Teil des Guides ist fertig, was noch fehlt ist die Automatisierung mit Radarr & Sonarr - das wird in den nächsten Tagen folgen.
 
-## Zuletzt aktualisiert: 28.11.20203 14:09
+## Zuletzt aktualisiert: 23.12.2023 16:44
 
 ---
 
@@ -50,6 +50,8 @@ Tipp: Am Black Friday und Koningsdag gibt es oft Angebote für nur 3€/Monat. F
 
    - **Für gelegentliche Nutzer**: Ein Block-Account ermöglicht es dir, eine Datenmenge zu kaufen und diese ohne Zeitdruck zu verbrauchen. Bei **newsgroupdirect.com** bekommst du 2 TB für 16$ oder 4 TB für 25$. Siehe hier ganz unten: [Usenet-Angebote](https://newsgroupdirect.com/usenet-deals). Beachte, dass die Aufbewahrungszeit hier maximal 12 Jahre beträgt, aber Block-Accounts mit einer 15+-jährigen Vorhaltezeit kosten oft 5-10x mehr. Es sollte keinen großen Unterschied machen, aber es ist erwähnenswert. **Achtung**: Direkt nach dem Kauf werden euch eure Zugangsdaten angezeigt, an diese kommt ihr danach nicht mehr ran - also am besten direkt sichern!
 
+   - **Hinweis: Da sich die Angebote der Provider sehr häufig ändern könnt ihr mich mich auch gerne anschreiben und nach den aktuell besten Deals fragen. [Kontakt & Support](#kontakt--support)**
+
 #### 2. **Usenet-Indexer**:
 
 Hinweis: Ich verlinke hier keinen Indexer, wenn ihr danach sucht sollten sie aber alle der erste Google-Treffer sein ;)
@@ -58,7 +60,7 @@ Für deutsche Produktionen, deutsche Vertonung sowie sogenannte "German DL" Rele
 
 Für Gelegenheitsnutzer lassen sich Indexer oftmals sogar komplett kostenlos nutzen. Wer jedoch viel oder sogar automatisiert downloaden möchte, kommt um eine jährliche Zahlung von 10-20€ nicht herum.
 
-Hier meine Indexer-Empfehlung mit Ranking nach eigener Erfahrung. Zu Beginn reicht sceneNZBs völlig aus. Die anderen Indexer haben deutlich weniger deutschen Content, aber es gibt manchmal ältere Releases, die es (noch) nicht auf SceneNZBs gibt. Außerdem haben sie englischen Content oftmals früher und in mehr Varianten.
+Hier meine Indexer-Empfehlung mit Ranking nach eigener Erfahrung. Zu Beginn reicht SceneNZBs völlig aus. Die anderen Indexer haben deutlich weniger deutschen Content, aber es gibt manchmal ältere Releases, die es (noch) nicht auf SceneNZBs gibt. Außerdem haben sie englischen Content oftmals früher und in mehr Varianten.
 
 | Rank | Indexer       | Kostenlose Downloads/Tag | Premium pro Jahr       | Registrierung geöffnet | Löschung von kostenlosen Accounts bei Inaktivität | Weitere Info                                                                           |
 |------|---------------|--------------------------|------------------------|------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------|
@@ -66,10 +68,10 @@ Hier meine Indexer-Empfehlung mit Ranking nach eigener Erfahrung. Zu Beginn reic
 | 2.   | NinjaCentral | 5                        | 12€                    | Alle paar Monate       | 7 Tage                                            | Kostenlose Accounts werden schnell gesperrt, aber Premium ist es auf jeden Fall Wert - dieser Indexer hat oft Sachen, die es kaum woanders gibt. Dazu hat er auch sehr viele deutsche Inhalte.  |
 | 3.   | NZB.su   | ?                        | 15$                 | Dauerhaft | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch viel an deutschem Content hat.
 | 4.   | NzbGeek       | Einmalig 15 zum testen   | 12$                    | Dauerhaft              | -                                                 | Sehr gute Ergänzung zu SceneNZBs, da günstig, offene Registrierung und einiges an älterem deutschem Content vorhanden                          |
-| 5.   | DrunkenSlug   | 5                        | 15-25€                 | Alle paar Monate | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch einiges an deutschem Content hat, allerdings im Vergleich zu NzbGeek recht teuer                    |
+| 5.   | DrunkenSlug   | 5                        | 15-25€                 | Alle paar Monate | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch einiges an deutschem Content hat, allerdings im Vergleich zu NzbGeek etwas teuer                    |
 | 6.   | AnimeTosho    | ∞                        | 0€                     | Nicht nötig            | -                                                 | Kostenloser Indexer für Anime (allerdings wenig deutsches)                    
 
-NzbGeek, DrunkenSlug und NZB.su haben eine wirklich sehr große Überschneidung, weshalb ihr davon eigentlich maximal 2 braucht - außer ihr seid absoluter Poweruser und ladet sehr viel herunter.
+NzbGeek und DrunkenSlug haben eine wirklich sehr große Überschneidung, weshalb ihr davon eigentlich - wenn überhaupt - nur einen braucht.
 
 **Kostenlose Alternative:**
 Wer - bis auf den Usenet Provider - wirklich komplett kostenlos fahren möchte kann Alternativ auch auf so genannte Boards(Foren) zurückgreifen. Hier kann man nichts automatisieren und es sind ggf. ein paar mehr Klicks nötig, aber dafür sind die Boards komplett kostenlos. Es gibt im deutschen Raum ein bekanntes öffentliches Usenet-Board: house-of-usenet.com
@@ -141,7 +143,7 @@ Ganz am Ende hinter dem Bindestrich seht ihr immer die Releasegroup, also die Gr
 | BluRay, Blu-Ray    | BluRay-RIP. Bessere Qualität als WEB-DL
 | Remux              | Unveränderter, originaler BluRay-Rip. Es wurden nur ggf. nicht gewünschte Sprachen sowie Menüs entfernt. Bestmögliche Qualität.
 | MD, MIC DUBBED, MIC| Tonspur wurde im Kino aufgezeichnet. Oft schlechte Audioqualität mit Störgeräuschen. Meine Empfehlung: Nach einem besseren Release suchen bzw. darauf warten :-)
-| REPACK, PROPER     | Diese Releases sind Überarbeitungen oder Korrekturen eines vorherigen Releases. Ein REPACK oder PROPER sollte einem ansonsten exakt gleiche Releasen ohne diese Kennzeichnung bevorzugt werden.                                                |
+| REPACK, PROPER     | Diese Releases sind Überarbeitungen oder Korrekturen eines vorherigen Releases. Ein REPACK oder PROPER sollte einem ansonsten exakt gleichnamigen Release ohne diese Kennzeichnung bevorzugt werden.                                                |
 
 ### Probleme und Fragen
 
