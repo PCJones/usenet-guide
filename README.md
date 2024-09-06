@@ -4,7 +4,7 @@ Ein deutscher Guide für das Usenet. Wenn du Fragen, Probleme oder Verbesserungs
 ## Status des Guides
 Der erste Teil des Guides ist fertig, was noch fehlt ist die Automatisierung mit Radarr & Sonarr - das wird in den nächsten Tagen folgen.
 
-## Zuletzt aktualisiert: 23.12.2023 16:44
+## Zuletzt aktualisiert: 06.09.2024 20:41
 
 ---
 
@@ -64,8 +64,8 @@ Hier meine Indexer-Empfehlung mit Ranking nach eigener Erfahrung. Zu Beginn reic
 
 | Rank | Indexer       | Kostenlose Downloads/Tag | Premium pro Jahr       | Registrierung geöffnet | Löschung von kostenlosen Accounts bei Inaktivität | Weitere Info                                                                           |
 |------|---------------|--------------------------|------------------------|------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------|
-| 1.   | SceneNZBs | 10                       | 15-20€                 | Dauerhaft              | 1 Jahr                                            | Unverzichtbar für deutschen Content - dieser Indexer ist darauf spezialisiert                      |
-| 2.   | NinjaCentral | 5                        | 12€                    | Alle paar Monate       | 7 Tage                                            | Kostenlose Accounts werden schnell gesperrt, aber Premium ist es auf jeden Fall Wert - dieser Indexer hat oft Sachen, die es kaum woanders gibt. Dazu hat er auch sehr viele deutsche Inhalte.  |
+| 1.   | SceneNZBs | 5                       | 15-20€                 | Dauerhaft              | 1 Jahr                                            | Unverzichtbar für deutschen Content - dieser Indexer ist darauf spezialisiert                      |
+| 2.   | NewzBay | 30 Tage Testzeitraum, dann 0       | 10€                    | Geschlossen, Invite aber leicht erhältlich       | 180 Tage                                            | Eub neuer, moderner Indexer, der auf deutschen Content spezialisiert ist. Sehr gut für Anime(Deutsche Synchro und/oder Original mit Untertiteln). Im Vergleich zu SceneNZBs fehlt allerdings noch ein größeres Archiv an älteren Sachen - dafür werden Anfragen nach fehlendem Content aber schnell erfüllt. Die perfekte Ergänzung zu SceneNZBs.  |
 | 3.   | NZB.su   | ?                        | 15$                 | Dauerhaft | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch viel an deutschem Content hat.
 | 4.   | NzbGeek       | Einmalig 15 zum testen   | 12$                    | Dauerhaft              | -                                                 | Sehr gute Ergänzung zu SceneNZBs, da günstig, offene Registrierung und einiges an älterem deutschem Content vorhanden                          |
 | 5.   | DrunkenSlug   | 5                        | 15-25€                 | Alle paar Monate | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch einiges an deutschem Content hat, allerdings im Vergleich zu NzbGeek etwas teuer                    |
@@ -180,3 +180,8 @@ Statt Schritt 5. (Torrent-Client) fügt ihr einen Newznab Usenet-Downloader hinz
 PayPal: https://paypal.me/pcjones1
 
 Für andere Spendenmöglichkeiten gerne auf Discord oder Telegram melden - danke!
+
+## Changelog:
+| Datum         | Änderung                                                                                                      |
+|--------------|----------------------------------------------------------------------------------------------------------------|
+| 2024-09-06 | SceneNZBs Free Downloads/Tag 10->5, NinjaCentral aus Empfehlungen entfernt (bei deutschen Releases gab es über einen längeren Zeitraum leider häufiger XXX statt dem richtigen Inhalt - das geht gar nicht), NewzBay hinzugefügt  |
