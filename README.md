@@ -185,3 +185,7 @@ Für andere Spendenmöglichkeiten gerne auf Discord oder Telegram melden - danke
 | Datum         | Änderung                                                                                                      |
 |--------------|----------------------------------------------------------------------------------------------------------------|
 | 2024-09-06 | SceneNZBs Free Downloads/Tag 10->5, NinjaCentral aus Empfehlungen entfernt (bei deutschen Releases gab es über einen längeren Zeitraum leider häufiger XXX statt dem richtigen Inhalt - das geht gar nicht), NewzBay hinzugefügt  |
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=pcjones/usenet-guide&type=Date)](https://star-history.com/#pcjones/usenet-guide&Date)
