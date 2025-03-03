@@ -164,11 +164,10 @@ Falls du eine sehr alte oder langsame Festplatte verwendest, könnte dies ebenfa
 
 Wie genau man Radarr, Sonarr & co einrichtet werde ich in den nächsten Tagen hinzufügen.
 Wer sich jetzt schon ranwagen möchte, hier ein paar Links & Infos:
-1. Ganz wichtig: Sonarr v4 Beta nutzen, nicht die Version 3. Version 3 wird bald eingestellt und es ändert sich einiges, es wäre ärgerlich wenn ihr dann alles neu konfigurieren müsst. Die Beta läuft auch sehr stabil und löst bald v3 endgültig ab.
-2. Hier scheint es ein ganz vernünftiges Englisches Tutorial zu geben: https://www.rapidseedbox.com/blog/ultimate-guide-to-sonarr
+1. Hier scheint es ein ganz vernünftiges Englisches Tutorial zu geben: https://www.rapidseedbox.com/blog/ultimate-guide-to-sonarr
 Statt Schritt 5. (Torrent-Client) fügt ihr einen Newznab Usenet-Downloader hinzu, die API Keys findet ihr beim Indexer in eurem Profil - dafür braucht ihr aber wie erwähnt dann Premium.
-3. Zur weiteren Optimierung empfehlen sich die TraSH-Guides für Radarr & Sonarr: https://trash-guides.info/ **Achtung**: Bei Sonarr nur den v4 Beta Reiter beachteten
-4. Falls German DL (Deutsch+Original) Releases bevorzugt werden sollen habe ich dafür einen Guide geschrieben: https://github.com/PCJones/radarr-sonarr-german-dual-language
+2. Zur weiteren Optimierung empfehlen sich die TraSH-Guides für Radarr & Sonarr: https://trash-guides.info/
+3. Falls German DL (Deutsch+Original) Releases bevorzugt werden sollen habe ich dafür einen Guide geschrieben: https://github.com/PCJones/radarr-sonarr-german-dual-language
 
 ## Kontakt & Support
 - Öffne gerne ein Issue auf GitHub falls du Unterstützung benötigst.
@@ -187,6 +186,7 @@ Für andere Spendenmöglichkeiten gerne auf Discord oder Telegram melden - danke
 | Datum         | Änderung                                                                                                      |
 |--------------|----------------------------------------------------------------------------------------------------------------|
 | 2024-09-06 | SceneNZBs Free Downloads/Tag 10->5, NinjaCentral aus Empfehlungen entfernt (bei deutschen Releases gab es über einen längeren Zeitraum leider häufiger XXX statt dem richtigen Inhalt - das geht gar nicht), NewzBay hinzugefügt  |
+| 2025-03-03 | Sonarr v4 Beta Hinweise entfernt (nicht mehr aktuell)  |
 
 ## Star History
 
