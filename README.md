@@ -4,7 +4,7 @@ Ein deutscher Guide für das Usenet. Wenn du Fragen, Probleme oder Verbesserungs
 ## Status des Guides
 Der erste Teil des Guides ist fertig, was noch fehlt ist die Automatisierung mit Radarr & Sonarr - das wird in den nächsten Tagen folgen.
 
-## Zuletzt aktualisiert: 06.09.2024 20:41
+## Zuletzt aktualisiert: 28.03.2025 03:28
 
 ---
 
@@ -45,13 +45,12 @@ Diese Tools sind optional und werden in einem späteren Teil ausführlicher besp
 #### 1. **Usenet-Provider**:
 
    - **Für regelmäßige Nutzer**: **Ewaka** bietet Zugriff auf Uploads, die bis zu 15+ Jahre alt sind.  
-Mit diesem [Aktionslink](https://www.eweka.nl/en/landing/best-usenet-promo) kostet es nur 3,99€/Monat. Wenn du erst einmal nur für einen Monat testen möchtest, besuche die [Ewaka-Startseite](https://www.eweka.nl/en).
-Tipp: Am Black Friday und Koningsdag gibt es oft Angebote für nur 3€/Monat. Falls du bis dahin warten möchtest, könnte ein Block-Account (siehe unten) eine gute vorübergehende Lösung sein.
+Mit diesem [Aktionslink](https://www.eweka.nl/en/landing/special-deal-evm-1) kostet es nur 2,50€/Monat. Wenn du erst einmal nur für einen Monat testen möchtest, besuche die [Ewaka-Startseite](https://www.eweka.nl/en).
 
    - **Für gelegentliche Nutzer**: Ein Block-Account ermöglicht es dir, eine Datenmenge zu kaufen und diese ohne Zeitdruck zu verbrauchen. Bei **newsgroupdirect.com** bekommst du 2 TB für 16$ oder 4 TB für 25$. Siehe hier ganz unten: [Usenet-Angebote](https://newsgroupdirect.com/usenet-deals). Beachte, dass die Aufbewahrungszeit hier maximal 12 Jahre beträgt, aber Block-Accounts mit einer 15+-jährigen Vorhaltezeit kosten oft 5-10x mehr. Es sollte keinen großen Unterschied machen, aber es ist erwähnenswert. **Achtung**: Direkt nach dem Kauf werden euch eure Zugangsdaten angezeigt, an diese kommt ihr danach nicht mehr ran - also am besten direkt sichern!
 
-   - **Hinweis: Da sich die Angebote der Provider sehr häufig ändern könnt ihr mich mich auch gerne anschreiben und nach den aktuell besten Deals fragen. [Kontakt & Support](#kontakt--support)**
-
+   - **Hinweis: Da sich die Angebote der Provider sehr häufig ändern könnt ihr mich mich auch gerne anschreiben und nach den aktuell besten Deals fragen. [Kontakt & Support](#kontakt--support)**.  
+Außerdem gibt es eine [Liste mit Providerdeals](https://rexum.space/p/usenet-provider-deals/) von rexum und [eine von r/usenet](https://old.reddit.com/r/usenet/wiki/providerdeals). Die Qualität der Usenet-Provider unterscheidet sich dabei stark. Bevor du einen bestimmten Deal abschließt, lohnt es sich zu recherieren oder [nachzufragen](#kontakt--support). 
 #### 2. **Usenet-Indexer**:
 
 Hinweis: Ich verlinke hier keinen Indexer, wenn ihr danach sucht sollten sie aber alle der erste Google-Treffer sein ;)
@@ -64,7 +63,7 @@ Hier meine Indexer-Empfehlung mit Ranking nach eigener Erfahrung. Zu Beginn reic
 
 | Rank | Indexer       | Kostenlose Downloads/Tag | Premium pro Jahr       | Registrierung geöffnet | Löschung von kostenlosen Accounts bei Inaktivität | Weitere Info                                                                           |
 |------|---------------|--------------------------|------------------------|------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------|
-| 1.   | SceneNZBs | 5                       | 15-20€                 | Dauerhaft              | 1 Jahr                                            | Unverzichtbar für deutschen Content - dieser Indexer ist darauf spezialisiert                      |
+| 1.   | SceneNZBs | 5                       | 15€ (10€ ab dem dritten Jahr)                | Dauerhaft              | 1 Jahr                                            | Unverzichtbar für deutschen Content - dieser Indexer ist darauf spezialisiert                      |
 | 2.   | NewzBay | 30 Tage Testzeitraum, dann 0       | 10€                    | Geschlossen (Userinvites Möglich)       | 180 Tage                                            | Ein neuer, moderner Indexer, der auf deutschen Content spezialisiert ist. Sehr gut für Anime(Deutsche Synchro & Original mit Untertitel). Im Vergleich zu SceneNZBs fehlt allerdings noch ein größeres Archiv an älteren Sachen - dafür werden Anfragen nach fehlendem Content aber schnell erfüllt. Die perfekte Ergänzung zu SceneNZBs.  |
 | 3.   | NZB.su   | ?                        | 15$                 | Dauerhaft | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch viel an deutschem Content hat.
 | 4.   | NzbGeek       | Einmalig 15 zum testen   | 12$                    | Dauerhaft              | -                                                 | Sehr gute Ergänzung zu SceneNZBs, da günstig, offene Registrierung und einiges an älterem deutschem Content vorhanden                          |
@@ -74,7 +73,7 @@ Hier meine Indexer-Empfehlung mit Ranking nach eigener Erfahrung. Zu Beginn reic
 NzbGeek und DrunkenSlug haben eine wirklich sehr große Überschneidung, weshalb ihr davon eigentlich - wenn überhaupt - nur einen braucht.
 
 **Kostenlose Alternative:**
-Wer - bis auf den Usenet Provider - wirklich komplett kostenlos fahren möchte kann Alternativ auch auf so genannte Boards(Foren) zurückgreifen. Hier kann man nichts automatisieren und es sind ggf. ein paar mehr Klicks nötig, aber dafür sind die Boards komplett kostenlos. Es gibt im deutschen Raum ein bekanntes öffentliches Usenet-Board: house-of-usenet.com
+Wer - bis auf den Usenet Provider - wirklich komplett kostenlos fahren möchte kann Alternativ auch auf so genannte Boards(Foren) zurückgreifen. Hier kann man nichts automatisieren und es sind ggf. ein paar mehr Klicks nötig, aber dafür sind die Boards komplett kostenlos. Es gibt im deutschen Raum ein bekanntes Usenet-Board, bei dem man sich bewerben kann: house-of-usenet.com
 
 #### 3. Downloader(Usenet-Client):
 
@@ -187,6 +186,7 @@ Für andere Spendenmöglichkeiten gerne auf Discord oder Telegram melden - danke
 |--------------|----------------------------------------------------------------------------------------------------------------|
 | 2024-09-06 | SceneNZBs Free Downloads/Tag 10->5, NinjaCentral aus Empfehlungen entfernt (bei deutschen Releases gab es über einen längeren Zeitraum leider häufiger XXX statt dem richtigen Inhalt - das geht gar nicht), NewzBay hinzugefügt  |
 | 2025-03-03 | Sonarr v4 Beta Hinweise entfernt (nicht mehr aktuell)  |
+| 2025-03-28 | Eweka deal angepasst, Link zu Providerdeals mit Disclaimer, Scenenzbs Preis angepasst, HoU nicht mehr offen
 
 ## Star History
 
