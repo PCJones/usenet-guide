@@ -4,7 +4,7 @@ Ein deutscher Guide für das Usenet. Wenn du Fragen, Probleme oder Verbesserungs
 ## Status des Guides
 Der erste Teil des Guides ist fertig, was noch fehlt ist die Automatisierung mit Radarr & Sonarr - das wird in den nächsten Tagen folgen.
 
-## Zuletzt aktualisiert: 19.09.2025
+## Zuletzt aktualisiert: 11.11.2025
 
 ---
 
@@ -65,12 +65,11 @@ Hier meine Indexer-Empfehlung mit Ranking nach eigener Erfahrung. Zu Beginn reic
 | Rank | Indexer       | Kostenlose Downloads/Tag | Premium pro Jahr       | Registrierung geöffnet | Löschung von kostenlosen Accounts bei Inaktivität | Weitere Info                                                                           |
 |------|---------------|--------------------------|------------------------|------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------|
 | 1.   | SceneNZBs | 5                            | 15 (10€ ab dem dritten Jahr) | Dauerhaft              | 1 Jahr                                            | Unverzichtbar für deutschen Content - dieser Indexer ist darauf spezialisiert.                      |
-| 2.   | NewzBay | 30 Tage Testzeitraum, dann 0   | 10€                    | Geschlossen (Userinvites Möglich)       | 180 Tage                                            | Ein neuer, moderner Indexer, der auf deutschen Content spezialisiert ist. Sehr gut für Anime(Deutsche Synchro & Original mit Untertitel). Im Vergleich zu SceneNZBs fehlt allerdings noch ein größeres Archiv an älteren Sachen - dafür werden Anfragen nach fehlendem Content aber schnell erfüllt. Die perfekte Ergänzung zu SceneNZBs.  |
-| 3.   | NZBFinder     | 3                        | 15-45$                 | Dauerhaft              | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch viel an deutschem Content hat.                    |
-| 4.   | NZB.life      | 0                        | 15$                    | Dauerhaft              | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch viel an deutschem Content hat.
-| 5.   | DrunkenSlug   | 5                        | 15-25€                 | Alle paar Monate       | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch einiges an deutschem Content hat, allerdings im Vergleich zu NzbGeek etwas teuer.                    |
-| 6.   | NzbGeek       | Einmalig 15 zum testen   | 12$                    | Dauerhaft              | -                                                 | Sehr gute Ergänzung zu SceneNZBs, da günstig, offene Registrierung und einiges an älterem deutschem Content vorhanden.                          |
-| 7.   | AnimeTosho    | ∞                        | 0€                     | Nicht nötig            | -                                                 | Kostenloser Indexer für Anime (allerdings wenig deutsches)                    
+| 2.   | NZBFinder     | 3                        | 15-45$                 | Dauerhaft              | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch viel an deutschem Content hat.                    |
+| 3.   | NZB.life      | 0                        | 15$                    | Dauerhaft              | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch viel an deutschem Content hat.
+| 4.   | DrunkenSlug   | 5                        | 15-25€                 | Alle paar Monate       | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch einiges an deutschem Content hat, allerdings im Vergleich zu NzbGeek etwas teuer.                    |
+| 5.   | NzbGeek       | Einmalig 15 zum testen   | 12$                    | Dauerhaft              | -                                                 | Sehr gute Ergänzung zu SceneNZBs, da günstig, offene Registrierung und einiges an älterem deutschem Content vorhanden.                          |
+| 6.   | AnimeTosho    | ∞                        | 0€                     | Nicht nötig            | -                                                 | Kostenloser Indexer für Anime (allerdings wenig deutsches)                    
 
 NzbGeek und DrunkenSlug haben eine wirklich sehr große Überschneidung, weshalb ihr davon eigentlich - wenn überhaupt - nur einen braucht.
 
@@ -184,10 +183,11 @@ Für andere Spendenmöglichkeiten gerne auf Discord oder Telegram melden - danke
 ## Changelog:
 | Datum         | Änderung                                                                                                      |
 |--------------|----------------------------------------------------------------------------------------------------------------|
-| 2024-09-06 | SceneNZBs Free Downloads/Tag 10->5, NinjaCentral aus Empfehlungen entfernt (bei deutschen Releases gab es über einen längeren Zeitraum leider häufiger XXX statt dem richtigen Inhalt - das geht gar nicht), NewzBay hinzugefügt  |
+| 2024-09-06 | SceneNZBs Free Downloads/Tag 10->5, NinjaCentral aus Empfehlungen entfernt (bei deutschen Releases gab es über einen längeren Zeitraum leider häufiger XXX statt dem richtigen Inhalt - das geht gar nicht) |
 | 2025-03-03 | Sonarr v4 Beta Hinweise entfernt (nicht mehr aktuell)  |
 | 2025-03-28 | Eweka deal angepasst, Link zu Providerdeals mit Disclaimer, Scenenzbs Preis angepasst, HoU nicht mehr offen, trash-guide (DE) (thx [@laurel-kit-saline-ash-abiding-recluse](https://github.com/laurel-kit-saline-ash-abiding-recluse) |
 | 2025-09-19 | Indexer Ranking angepasst |
+| 2025-11-11 | Indexer auf Wunsch entfernt |
 
 ## Star History
 
