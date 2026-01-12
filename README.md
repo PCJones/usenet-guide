@@ -11,7 +11,7 @@ Der erste Teil des Guides ist fertig, was noch fehlt ist die Automatisierung mit
 Hier gibt es **keinen** Support für Streaming über Usenet. Warum?
 Erstmal ist es ohnehin gegen die Regeln aller deutscher Indexer. 
 Die Streaming-Technologie ist nicht direkt das Problem, es ist das, was folgen wird wenn das Usenet-Streaming Mainstream geht und zur Gelddruckmaschine wird:
-Die großen Rechteinhaber werden durch die unweigerlich entstehenden Pay-Anbieter a la Stremio auf den Plan gerufen werden. Das ganze Usenet ist mittlerweile alles andere als dezentral und wenn einmal so jemand wie Warner Bos/Sony richtig die Muskeln spielen lässt, war es das mit dem Usenet wie wir es kennen.
+Die großen Rechteinhaber werden durch die unweigerlich entstehenden Pay-Anbieter a la Stremio auf den Plan gerufen werden. Das ganze Usenet ist mittlerweile alles andere als dezentral und wenn einmal so jemand wie Warner Bros/Sony richtig die Muskeln spielen lässt, war es das mit dem Usenet wie wir es kennen.
 
 ---
 
