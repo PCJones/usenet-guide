@@ -6,8 +6,6 @@ Der erste Teil des Guides ist fertig, was noch fehlt ist die Automatisierung mit
 
 ## Zuletzt aktualisiert: 11.01.2026
 
----
-
 ## Wichtiger Hinweis:
 
 Hier gibt es **keinen** Support für Streaming über Usenet. Warum?
