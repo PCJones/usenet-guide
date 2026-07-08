@@ -63,19 +63,19 @@ Außerdem gibt es eine [Liste mit Providerdeals](https://rexum.space/p/usenet-pr
 
 Hinweis: Ich verlinke hier keinen Indexer, wenn ihr danach sucht sollten sie aber alle der erste Google-Treffer sein ;)
 
-Für deutsche Produktionen, deutsche Vertonung sowie sogenannte "German DL" Releases (DL = Dual Language, also deutsche + originale Tonspur) gibt es eigentlich nur einen Usenet-Indexer: **SceneNZBs**.
+Für deutsche Produktionen, deutsche Vertonung sowie sogenannte "German DL" Releases (DL = Dual Language, also deutsche + originale Tonspur) gibt es eigentlich nur einen Usenet-Indexer: **Treasure-Maps**.
 
 Für Gelegenheitsnutzer lassen sich Indexer oftmals sogar komplett kostenlos nutzen. Wer jedoch viel oder sogar automatisiert downloaden möchte, kommt um eine jährliche Zahlung von 10-20€ nicht herum.
 
-Hier meine Indexer-Empfehlung mit Ranking nach eigener Erfahrung. Zu Beginn reicht SceneNZBs völlig aus. Die anderen Indexer haben deutlich weniger deutschen Content, aber es gibt manchmal ältere Releases, die es (noch) nicht auf SceneNZBs gibt. Außerdem haben sie englischen Content oftmals früher und in mehr Varianten.
+Hier meine Indexer-Empfehlung mit Ranking nach eigener Erfahrung. Zu Beginn reicht Treasure-Maps völlig aus. Die anderen Indexer haben deutlich weniger deutschen Content, aber es gibt manchmal ältere Releases, die es (noch) nicht auf Treasure-Maps gibt. Außerdem haben sie englischen Content oftmals früher und in mehr Varianten.
 
 | Rank | Indexer       | Kostenlose Downloads/Tag | Premium pro Jahr       | Registrierung geöffnet | Löschung von kostenlosen Accounts bei Inaktivität | Weitere Info                                                                           |
 |------|---------------|--------------------------|------------------------|------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------|
-| 1.   | SceneNZBs | 5                            | 15 (10€ ab dem dritten Jahr) | Dauerhaft              | 1 Jahr                                            | Unverzichtbar für deutschen Content - dieser Indexer ist darauf spezialisiert.                      |
+| 1.   | Treasure-Maps | 5                            | 15 (10€ ab dem dritten Jahr) | Dauerhaft              | 1 Jahr                                            | Unverzichtbar für deutschen Content - dieser Indexer ist darauf spezialisiert.                      |
 | 2.   | NZBFinder     | 3                        | 15-45$                 | Dauerhaft              | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch viel an deutschem Content hat.                    |
 | 3.   | NZB.life      | 0                        | 15$                    | Dauerhaft              | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch viel an deutschem Content hat.
 | 4.   | DrunkenSlug   | 5                        | 15-25€                 | Alle paar Monate       | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch einiges an deutschem Content hat, allerdings im Vergleich zu NzbGeek etwas teuer.                    |
-| 5.   | NzbGeek       | Einmalig 15 zum testen   | 12$                    | Dauerhaft              | -                                                 | Sehr gute Ergänzung zu SceneNZBs, da günstig, offene Registrierung und einiges an älterem deutschem Content vorhanden.                          |
+| 5.   | NzbGeek       | Einmalig 15 zum testen   | 12$                    | Dauerhaft              | -                                                 | Sehr gute Ergänzung zu Treasure-Maps, da günstig, offene Registrierung und einiges an älterem deutschem Content vorhanden.                          |
 | 6.   | AnimeTosho    | ∞                        | 0€                     | Nicht nötig            | -                                                 | Kostenloser Indexer für Anime (allerdings wenig deutsches)                    
 
 NzbGeek und DrunkenSlug haben eine wirklich sehr große Überschneidung, weshalb ihr davon eigentlich - wenn überhaupt - nur einen braucht.
@@ -118,7 +118,7 @@ Wenn du es bis hier geschafft hast, dann hast du den schwierigsten Teil geschaff
 
 | Bild | Beschreibung |
 |------|--------------|
-| ![Einloggen bei Indexer](https://github.com/PCJones/usenet-guide/blob/main/img/indexer1.png?raw=true) | 1. Einloggen bei Indexer (z.B. SceneNZBs) |
+| ![Einloggen bei Indexer](https://github.com/PCJones/usenet-guide/blob/main/img/indexer1.png?raw=true) | 1. Einloggen bei Indexer (z.B. Treasure-Maps) |
 | ![Suche](https://github.com/PCJones/usenet-guide/blob/main/img/indexer2.png?raw=true) | 2. Oben rechts in der Suche können wir nach etwas suchen, also zum Beispiel Filme oder Serien. |
 | ![Suchergebnisse](https://github.com/PCJones/usenet-guide/blob/main/img/indexer3.png?raw=true) | 3. In meinem Fall habe ich nach Tatort gesucht und finde dementsprechend alle Möglichen Tatort-Filme. Sucht ihr nach bestimmten Folgen, z.B. Staffel 2 Folge 8 so ist das Suchformat immer "Serienname S02E08". Ihr findet hier auch wichtige Informationen wie die Dateigröße. das Upload-Datum und im Titel auch noch vieles weiteres, wie z.B. die Ursprungsquelle (Blu-Ray, WEB, DVD, etc) oder die Qualität (720p, 1080p, 4k, etc). Worauf genau ihr da achten könnt & solltet erkläre ich später noch genauer. |
 | ![View Series](https://github.com/PCJones/usenet-guide/blob/main/img/indexer4.png?raw=true) | 4. Tipp: Bei Filmreihen und insbesondere Serien gibt es bei den meisten Indexern einen Button wie View Series, mit der man eine geordnete Übersicht über alle verfügbaren Staffeln, Folgen & verfügbare Releases hat. |
@@ -195,6 +195,7 @@ Für andere Spendenmöglichkeiten gerne auf Discord oder Telegram melden - danke
 | 2025-03-28 | Eweka deal angepasst, Link zu Providerdeals mit Disclaimer, Scenenzbs Preis angepasst, HoU nicht mehr offen, trash-guide (DE) (thx [@laurel-kit-saline-ash-abiding-recluse](https://github.com/laurel-kit-saline-ash-abiding-recluse) |
 | 2025-09-19 | Indexer Ranking angepasst |
 | 2025-11-11 | Indexer auf Wunsch entfernt |
+| 2062-07-08 | SceneNZBS => Treasure-Maps rename |
 
 ## Star History
 
