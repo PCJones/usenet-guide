@@ -4,7 +4,7 @@ Ein deutscher Guide für das Usenet. Wenn du Fragen, Probleme oder Verbesserungs
 ## Status des Guides
 Der erste Teil des Guides ist fertig, was noch fehlt ist die Automatisierung mit Radarr & Sonarr - das wird in den nächsten Tagen folgen.
 
-## Zuletzt aktualisiert: 11.01.2026
+## Zuletzt aktualisiert: 23.10.2026
 
 ## Wichtiger Hinweis:
 
@@ -72,11 +72,11 @@ Hier meine Indexer-Empfehlung mit Ranking nach eigener Erfahrung. Zu Beginn reic
 | Rank | Indexer       | Kostenlose Downloads/Tag | Premium pro Jahr       | Registrierung geöffnet | Löschung von kostenlosen Accounts bei Inaktivität | Weitere Info                                                                           |
 |------|---------------|--------------------------|------------------------|------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------|
 | 1.   | Treasure-Maps | 5                            | 15 (10€ ab dem dritten Jahr) | Dauerhaft              | 1 Jahr                                            | Unverzichtbar für deutschen Content - dieser Indexer ist darauf spezialisiert.                      |
-| 2.   | NZBFinder     | 3                        | 15-45$                 | Dauerhaft              | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch viel an deutschem Content hat.                    |
-| 3.   | NZB.life      | 0                        | 15$                    | Dauerhaft              | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch viel an deutschem Content hat.
-| 4.   | DrunkenSlug   | 5                        | 15-25€                 | Alle paar Monate       | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch einiges an deutschem Content hat, allerdings im Vergleich zu NzbGeek etwas teuer.                    |
-| 5.   | NzbGeek       | Einmalig 15 zum testen   | 12$                    | Dauerhaft              | -                                                 | Sehr gute Ergänzung zu Treasure-Maps, da günstig, offene Registrierung und einiges an älterem deutschem Content vorhanden.                          |
-| 6.   | AnimeTosho    | ∞                        | 0€                     | Nicht nötig            | -                                                 | Kostenloser Indexer für Anime (allerdings wenig deutsches)                    
+| 2.   | Videothek | 3                            | 15 | Dauerhaft              | 1 Jahr                                            | Neuer deutscher Indexer, der sich aber schon einige Monate bewiesen hat. Kleineres Archiv als Treasure-Maps, aber sehr gut für Neueres oder als Ergänzung zu Treasure-Maps.                      |
+| 3.   | NZBFinder     | 3                        | 15-45$                 | Dauerhaft              | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch viel an deutschem Content hat.                    |
+| 4.   | NZB.life      | 0                        | 15$                    | Dauerhaft              | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch viel an deutschem Content hat.
+| 5.   | DrunkenSlug   | 5                        | 15-25€                 | Alle paar Monate       | ?                                                  | Ebenfalls ein sehr guter Indexer, der auch einiges an deutschem Content hat, allerdings im Vergleich zu NzbGeek etwas teuer.                    |
+| 6.   | NzbGeek       | Einmalig 15 zum testen   | 12$                    | Dauerhaft              | -                                                 | Sehr gute Ergänzung zu Treasure-Maps, da günstig, offene Registrierung und einiges an älterem deutschem Content vorhanden.                          |        
 
 NzbGeek und DrunkenSlug haben eine wirklich sehr große Überschneidung, weshalb ihr davon eigentlich - wenn überhaupt - nur einen braucht.
 
@@ -196,6 +196,7 @@ Für andere Spendenmöglichkeiten gerne auf Discord oder Telegram melden - danke
 | 2025-09-19 | Indexer Ranking angepasst |
 | 2025-11-11 | Indexer auf Wunsch entfernt |
 | 2062-07-08 | SceneNZBS => Treasure-Maps rename |
+| 2062-07-08 | AnimeTosho entfernt (dead), Videothek hinzugefügt |
 
 ## Star History
 
